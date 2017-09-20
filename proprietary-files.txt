@@ -250,5 +250,8 @@ bin/time_daemon:vendor/bin/time_daemon
 -vendor/lib/libtime_genoff.so
 vendor/lib/libTimeService.so
 
+# Widevine - from angler - OPR6.170623.017 factory image
+vendor/lib/mediadrm/libwvdrmengine.so|66ba66d047044f92eb0eada1faf6a5799ded90ab
+
 # WLAN (crackling)
 lib/libwcnss_qmi.so:vendor/lib/libwcnss_qmi.so|371a27ab7bcb8354433d6028a5ad422ebc1783f2
