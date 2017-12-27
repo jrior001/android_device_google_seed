@@ -13,7 +13,7 @@ camera2.portability.force_api=1
 ro.sf.lcd_density=320
 
 # Factory reset protection
-ro.frp.pst=/dev/block/bootdevice/by-name/frp
+ro.frp.pst=/dev/block/platform/soc.0/7824900.sdhci/by-name/frp
 
 # First api level, device has been commercially launched
 ro.product.first_api_level=22
