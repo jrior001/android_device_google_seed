@@ -220,7 +220,9 @@ etc/permissions/qcrilhook.xml|9fc58a3d54d20ac1d53bab14608815121aefbce5
 -framework/qcnvitems.jar|c07b1cc603c84414ee1b33749ea492b9d7a9e181
 -framework/qcrilhook.jar|d8cd25a1ca0a49c1a69d856d8846a517725785ec
 -priv-app/qcrilmsgtunnel/qcrilmsgtunnel.apk|250eeb259f908070ac302ce66832d0c030473015
-vendor/lib/libcneapiclient.so|1cd1a5a4db60d1b2f99a124663eba3b10cbb5c89
+vendor/lib/com.quicinc.cne.api@1.0.so|60dd6f1fa0c70523f91342b07be6c82e733cdb90
+vendor/lib/com.quicinc.cne.constants@1.0.so|0d3b2fd95e8ea3525467d8ca38865ac2a9d3f4c7
+vendor/lib/libcneapiclient.so|f97d23653b7ed72694800eb45cd5a78663e17c45
 vendor/lib/libconfigdb.so|0baff7fcba0f1a22b8ec1b08f6068579ed527452
 vendor/lib/liblqe.so|e4a40f8675c5b52f1bb71aa2fea62d7ffcd9b003
 vendor/lib/libmdmdetect.so|00dcc86d87300acbc10e4916a543717ccfc776db
