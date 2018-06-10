@@ -209,7 +209,7 @@ vendor/lib/libsmemlog.so|b87c633d0faa143db4744bd17de5b03d600df15e
 # Radio (jalebi)
 -app/shutdownlistener/shutdownlistener.apk:vendor/app/shutdownlistener/shutdownlistener.apk|bb1577ef19b491cbd343a15714d9dd7e5e761689
 bin/netmgrd:vendor/bin/netmgrd|da382606d916b331a8bd5eae151dbd245ae26063
-bin/qmuxd:vendor/bin/qmuxd|6ff5f50f05973c34cc4516e5b4f5ca9c400bf94d
+bin/qmuxd:vendor/bin/qmuxd|6413a30c8bf1f5a4bf351bb29370a260cd991e39
 bin/radish:vendor/bin/radish|cd024f6b00374889b2d8c32e56aa615488dfa1e2
 bin/rmt_storage:vendor/bin/rmt_storage|079e247fbebeb215de4775a842d77b086304f322
 etc/permissions/qcnvitems.xml:vendor/etc/permissions/qcnvitems.xml|dc0e70cace2317b5169a454cbc2bbf8887c18d55
