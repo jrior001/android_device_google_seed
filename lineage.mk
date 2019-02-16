@@ -29,3 +29,8 @@ PRODUCT_BRAND := google
 PRODUCT_MANUFACTURER := google
 
 PRODUCT_GMS_CLIENTID_BASE := android-google
+
+PRODUCT_BUILD_PROP_OVERRIDES += \
+    PRIVATE_BUILD_DESC="seed_l8150-user 7.1.1 N0F27E 4103848 release-keys"
+
+BUILD_FINGERPRINT := google/seed/l8150:7.1.1/N0F27E/4103848:user/release-keys
